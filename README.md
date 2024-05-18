@@ -1,7 +1,8 @@
-
 # Hello, I'm Sagnik Ghosh 👋
 
-<img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 500px; height: 500px;">
+</p>
 
 ## My GitHub Stats
 
@@ -17,11 +18,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sagnikrg)
-
 
 <!--
 **sagnikrg/sagnikrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
