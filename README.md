@@ -1,7 +1,7 @@
 # Hello, I'm Sagnik Ghosh 👋
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 500px; height: 500px;">
 </p>
 
 ## My GitHub Stats
