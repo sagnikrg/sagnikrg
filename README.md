@@ -1,12 +1,26 @@
 
 # Hello, I'm Sagnik Ghosh 👋
 
+<img src="https://avatars.githubusercontent.com/sagnikrg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
 
+## My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikrg&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikrg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikrg&layout=compact&count_private=true&hide=html&token=YOUR_PERSONAL_ACCESS_TOKEN)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikrg&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
 ![GitHub Contributions](https://ghchart.rshah.org/sagnikrg)
 
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sagnikrg)
 
 
 <!--
